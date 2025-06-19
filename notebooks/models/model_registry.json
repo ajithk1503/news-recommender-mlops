@@ -1,0 +1,5 @@
+{
+    "model": "NMF_CollaborativeFiltering",
+    "version": "v1",
+    "n_components": 50
+}
