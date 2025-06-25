@@ -11,7 +11,10 @@ This project implements a personalized news recommendation system using collabor
 - Content-Based Filtering (TF-IDF over news articles)  
 - Feedback Loop for real-time adaptation  
 - MLOps pipeline including:
-  - Model training and evaluation  
+  - Model training and evaluation
+### Need to be developed
+  - Include neural network as a recommender
+  - Build online learner to improve feedback loop
   - API deployment via FastAPI  
   - Monitoring using Prometheus and Grafana  
   - Workflow orchestration with Apache Airflow  
